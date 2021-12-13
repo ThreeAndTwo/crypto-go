@@ -1,4 +1,4 @@
-module crypto_go
+module crypto-go
 
 go 1.16
 
