@@ -1,4 +1,4 @@
-package crypto_go
+package crypto
 
 import "math/rand"
 

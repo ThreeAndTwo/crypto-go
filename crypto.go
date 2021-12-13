@@ -1,4 +1,4 @@
-package crypto_go
+package crypto
 
 type Crypto struct {
 	CryptoType CryptoType
