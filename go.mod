@@ -1,4 +1,4 @@
-module crypto-go
+module github.com/ThreeAndTwo/crypto-go
 
 go 1.16
 
